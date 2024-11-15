@@ -11,7 +11,7 @@ function App() {
 
     return (
     <div>
-      <Titlu titlu='Counter:'></Titlu> 
+      <Titlu titlu='Counter:'/> 
       <h4 className='counter'>{counter}</h4>
 
       <div className='buttons-wrapper'>
